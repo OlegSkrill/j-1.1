@@ -15,7 +15,6 @@ https://github.com/OlegSkrill/j-1.1/issues/3
 Checklist
 Bug Reports
 
-
 В качестве тестовых данных использовались данные из руководства использования KeyValidator
 
 Valid keys:
