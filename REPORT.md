@@ -1,16 +1,12 @@
 Отчёт о тестировании OpenJDK11
-Краткое описание
-19.07.2020> - <20.07.2020> было проведено documentary testing, compatibility testing, installation testing приложения OPENJDK11.
+19.07.2020 - 20.07.2020 было проведено documentary testing, compatibility testing, installation testing приложения OPENJDK11.
 
 На тестирование затрачено: 24 часа.
 
 В результате тестирования выявлены следующие дефекты:
-
 https://github.com/OlegSkrill/j-1.1/issues/1
-https://github.com/OlegSkrill/j-1.1/issues/2
 https://github.com/OlegSkrill/j-1.1/issues/3
 
-Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
 Checklist
 Bug Reports
