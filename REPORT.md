@@ -1,4 +1,5 @@
 Отчёт о тестировании OpenJDK11
+
 19.07.2020 - 20.07.2020 было проведено documentary testing, compatibility testing, installation testing приложения OPENJDK11.
 
 На тестирование затрачено: 24 часа.
